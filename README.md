@@ -35,3 +35,9 @@ npm run start
 REACT_APP_BASE_URL="http://localhost:8000/"
 MONGO_URL="mongodb://localhost:27017/"
 ```
+
+
+
+
+![image](https://github.com/Dishi2003Jain/Emptycup-frontend/assets/82431854/9e52056c-f52c-45d3-a794-736db4afe910)
+
